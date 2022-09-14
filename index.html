@@ -13,6 +13,7 @@
     />
     <link rel="stylesheet" href="css/style.css" />
     <title>BrevisURL Shortener</title>
+    <script src="/src/index.js" defer></script>
   </head>
   <body>
     <!-- Nav Container -->
@@ -90,7 +91,7 @@
                   md:space-y-0 md:space-x-4">
           <input 
             type="text" 
-            class="flex-1 p-3 border-2 rounded-md 
+            class="flex-1 p-3 border-2  rounded-md 
                   placeholder-gray-500 focus:outline-none"
             placeholder="Shorten a link here"
             id="link-input">
@@ -100,6 +101,12 @@
                      md:bg-veryDarkViolet ">
               Shorten
             </button>
+            <!-- Error Mesages -->
+            <div 
+              id="err-msg" 
+              class="absolute left-7 bottom-3 text-sm text-red italic">
+
+            </div>
         </form>
 
         <!-- Link 1 -->
@@ -137,9 +144,9 @@
               https://brevis.at/saR45l
             </div>
             <button 
-              class="px-8 py-2 text-veryDarkViolet md:text-white 
-                     rounded-lg hover:opacity-70 bg-cyanLight 
-                     md:bg-veryDarkViolet ">
+              class="px-8 py-2 text-bold text-veryDarkViolet md:text-black 
+                     rounded-lg hover:opacity-70 bg-cyan 
+                     md:bg-cyan ">
               Copy
             </button>
           </div>
