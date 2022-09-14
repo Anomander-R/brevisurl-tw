@@ -33,6 +33,9 @@ Download or copy from the github, then run `npm install`
 
 Photos by Marko Blažević, Molly Triplett, Ben Turnbull, Stephanie LeBlanc, Gary Lopater, Jonathan Francisca, Kieran Sheehan, Jon Tyson, Ying Ge, Jaredd Craig, Alfons Morales, Nathan Dumlao, Heather Zabriskie, Javardh, Greg Rakozy, Alexis Antoine, Thought Catalog, and Aron Visuals on Unsplash.
 
+## Colors
+
+Color Bucket: https://convertingcolors.com/color-bucket/view/2ACFCF7CE4E43B3054F462629E9AA735323E232127.html
   
 ## Deployment
 
