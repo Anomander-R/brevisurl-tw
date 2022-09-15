@@ -2,9 +2,15 @@ const input = document.getElementById("link-input");
 const linkForm = document.getElementById("link-form");
 const errMsg = document.getElementById("err-msg");
 
+const buttOn = document.getElementById("menu-btn")
+const menu = document.getElementById("menu")
+
 linkForm.addEventListener('submit', formSubmit);
 // console.log(input);
 // console.log(message);
+
+buttOn.addEventListener('click', toggleMenu);
+menu.addEventListener('click', toggleMenu);
 
 function formSubmit(e){
     e.preventDefault();
@@ -30,3 +36,11 @@ function formSubmit(e){
 
     }
 }
+
+//Toggle Mobile Menu
+function toggleMenu(){
+    buttOn.classList.toggle('open');
+    menu.classList.toggle('flex');
+    menu.classList.toggle('hidden');
+}
+

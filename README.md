@@ -1,10 +1,10 @@
-# BrevisURL Website
-Exercise in using Tailwind CSS utility classes 4/7
+# BrevisURL Website - (URL shortener)
+Exercise in using Tailwind CSS utility classes 4/7. URL shortener.
 
 ## Description
 This is a project-based course to learn how to create awesome layouts using the Tailwind CSS framework and get comfortable using utility classes. An example is from Udemy's "Tailwind CSS From Scratch | Learn By Building Projects". The design is taken from Frontend Masters.
 
-![booklovers_cover](https://user-images.githubusercontent.com/90348779/189481189-f4de166e-554b-4548-820f-aef455497946.png)
+![brevisurl_cover_git](https://user-images.githubusercontent.com/90348779/190372075-8597adb3-5637-4cd8-b3d0-081a5b45c904.png)
 
 ## Installation
 
@@ -27,15 +27,15 @@ Download or copy from the github, then run `npm install`
   |_ [src]  
   |   |___index.js  
   | 
-  |_ [images](20+ images)  
-
-## Credits
-
-Photos by Marko Blažević, Molly Triplett, Ben Turnbull, Stephanie LeBlanc, Gary Lopater, Jonathan Francisca, Kieran Sheehan, Jon Tyson, Ying Ge, Jaredd Craig, Alfons Morales, Nathan Dumlao, Heather Zabriskie, Javardh, Greg Rakozy, Alexis Antoine, Thought Catalog, and Aron Visuals on Unsplash.
+  |_ [images](12 images)  
 
 ## Colors
 
 Color Bucket: https://convertingcolors.com/color-bucket/view/2ACFCF7CE4E43B3054F462629E9AA735323E232127.html
+
+## Resources
+
+SVG Icons: https://heroicons.dev/
   
 ## Deployment
 
