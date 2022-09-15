@@ -39,4 +39,4 @@ SVG Icons: https://heroicons.dev/
   
 ## Deployment
 
-Link: https://gleaming-puffpuff-3f935a.netlify.app/
+Link: https://lively-tarsier-44cc79.netlify.app/
